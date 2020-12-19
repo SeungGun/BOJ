@@ -4,12 +4,6 @@ typedef struct person {
 	int weight;
 	int height;
 }Ps;
-int com(Ps *a, Ps *b) {
-	if (a->weight > b->weight)
-		return -1;
-	else
-		return 1;
-}
 int main() {
 	int N;
 	Ps person[51];
