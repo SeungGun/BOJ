@@ -1,7 +1,7 @@
 # BOJ
 Baekjoon Online Judge
 - **2019/12/19 ~ 2020/02/06 - No recording - 124 problems**
-- **2020/12/19 - Recording - 24 problems**
+- **2020/12/19 - Recording - 26 problems**
 
 ```
 2020/12/18 - 2748(Re), 10828, 1138
